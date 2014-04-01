@@ -1,0 +1,14 @@
+ /*CSS */   #header {	color:black;	font-size: 32px;    height: 75px;    background:  grey;	border: 1px solid #00CC33;    border-radius: 10px;	width: 100%;	margin: 0 auto;	text-align: center;}h1 {	margin-top:0;	text-align: center;}
+.page-container {	
+	width:100%;	display: inline-block;
+	color: #00CC33;	background: black;
+	padding:25px;	width:  100%;    margin: 0 auto;
+	border:1px black;	text-align: center;
+}#infoContainer{background: black;width: 100%;margin: 0 auto;padding:90px;border:15px black;text-align: center;display: inline-block;}
+.page-container label {	color: #00CC33;	font-size: 25px;
+	display: inline-block;	background-color: grey;	background: black;
+	width:  100%;    margin: 0 auto;	
+}
+.form-actions {	color: #00CC33;	background: grey;
+	text-align: center;
+}
